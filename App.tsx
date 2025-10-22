@@ -178,3 +178,10 @@ const styles = StyleSheet.create({
 
 // References: 
 
+// reactnative.dev. (n.d.). Using List Views · React Native. [online] Available at: https://reactnative.dev/docs/using-a-listview.>[Accessed 21 October 2025].
+// W3schools.com. (2025). W3Schools.com. [online] Available at: https://www.w3schools.com/react/react_forms_select.asp.> [Accessed 22 Oct. 2025].
+// The Independent Institute of Education (IIE), 2025. Mobile App Scripting [MAST5112/p/w Module Outline]. The Independent Institute of Education: Unpublished. 
+// 
+
+
+
