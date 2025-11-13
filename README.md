@@ -1,4 +1,4 @@
-#Christoffells Cooking Menu App 
+# Christoffells Cooking Menu App 
 Mast Part 3 
 st10479623
 
@@ -40,7 +40,7 @@ Improved spacing, alignment as well as  text readability for better presentation
 Simplified button and input field styling for a consistent modern interface.
 
 
-##References: 
+## References: 
 
 
 
