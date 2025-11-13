@@ -21,5 +21,15 @@ Implemented React Navigation Stack Navigator to manage multi screen navigation c
 
 Improved state management by storing menu items in an array shared across screens.
 
+### New Added Features 
+Added average price per course calculation on the Home Screen.
+
+Added ability to remove items directly from the Add Item screen.
+
+Implemented filter functionality to view dishes by selected course on the Filter Screen.
+
+Menu data dynamically updates across all screens. 
+
+
 
 
