@@ -30,6 +30,16 @@ Implemented filter functionality to view dishes by selected course on the Filter
 
 Menu data dynamically updates across all screens. 
 
+## User Interface Improvements 
+Introduced a table style layout for organized display of dishes for the home page.
+
+Polished visuals with an elegant black and gold theme for a refined appearance.
+
+Improved spacing, alignment as well as  text readability for better presentation.
+
+Simplified button and input field styling for a consistent modern interface.
+
+
 
 
 
